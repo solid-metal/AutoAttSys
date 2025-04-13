@@ -1,0 +1,2 @@
+# AutoAttSys
+Automated Attendance System
