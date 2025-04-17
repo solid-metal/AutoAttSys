@@ -1,2 +1,2 @@
-# AutoAttSys
-Automated Attendance System
+# AutoAttSys - Automated Attendance System
+
